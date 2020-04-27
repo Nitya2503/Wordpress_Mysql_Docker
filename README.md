@@ -7,7 +7,8 @@ Wordpress is a content management system that provides the ability to publish, e
 WordPress needs two components to work on your web server: PHP and MySQL.
 
 # Pre-configurations needed:
-You will require Docker and Docker Compose to be installed in your system. To download follow the link:
+You will require Docker and Docker Compose to be installed in your system. 
+To download follow the link:
 For docker:- https://www.docker.com/products/docker-desktop
 For docker compose:- https://docs.docker.com/compose/install/
 
