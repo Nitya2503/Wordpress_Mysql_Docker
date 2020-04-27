@@ -12,14 +12,14 @@ For docker:- https://www.docker.com/products/docker-desktop
 For docker compose:- https://docs.docker.com/compose/install/
 
 #  docker-compose file:-
-Create a file named as docker-compose.yaml. After creating the file you should define vesrion, all the services, container names, volumes and ports. 
+Create a file named as docker-compose.yaml. After creating the file you should define version, all the services, container names, volumes and ports. I have attached docker-compose file for reference.
 
 # For building the Images and containers:-
 After creating docker compose file. use command 
-``` docker-compose up -d ``` or  ``` docker-compose build ``` commands to create the conatiners. This. command will automatically pull images of from the docker hub.
+``` docker-compose up -d ``` or  ``` docker-compose build ``` commands to create the conatiners. This command will automatically pull images from the docker hub.
 
 # Output:-
-Just go to your browser and type > localhost:8000/ and all set Famous five min setup of wordpress will be there just fill up some details and get started.
+Just go to your browser and type > localhost:8000/ and all set Famous five minute setup of wordpress will be there just fill up some details and get started.
 
 
 # For closing all the containers:
