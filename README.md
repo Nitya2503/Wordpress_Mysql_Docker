@@ -16,14 +16,14 @@ Create a file named as docker-compose.yaml. After creating the file you should d
 
 # For building the Images and containers:-
 After creating docker compose file. use command 
-``` docker-compose up -d ``` or  ``` docker-compose build ``` commands to create the conatiners. This command will automatically pull images from the docker hub.
+``` $ docker-compose up -d ``` or  ```$ docker-compose build ``` commands to create the conatiners. This command will automatically pull images from the docker hub.
 
 # Output:-
-Just go to your browser and type > localhost:8000/ and all set Famous five minute setup of wordpress will be there just fill up some details and get started.
+Just go to your browser and type `localhost:8000/` and all set Famous five minute setup of wordpress will be there just fill up some details and get started.
 
 
 # For closing all the containers:
 
-Just Use command ```docker-compose down``` in your terminal, all running containers which are associated with your docker-compose file will get stopped.
+Just Use command ``` $ docker-compose down``` in your terminal, all running containers which are associated with your docker-compose file will get stopped.
 
 
